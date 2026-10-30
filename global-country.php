@@ -18,6 +18,14 @@ include('Templates/config.php');
 	<link rel="canonical" href="<?php echo $path; ?>" />
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Sora:wght@100..800&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LLK0D2BP1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-0LLK0D2BP1');
+</script>
 </head>
 
 <body>
@@ -43,7 +51,7 @@ include('Templates/config.php');
                 <div class="col-lg-12">
                     <div class="services-list-box">
                         <div class="service-item">
-                            <a href="404.php">
+                            <a href="industrial-pump-uae.php">
                                 <div class="icon-box image-anime">
                                     <img src="assets/images/uae-banner.png" alt="UAE">
                                 </div>
@@ -52,13 +60,13 @@ include('Templates/config.php');
                                 </div>
                             </a>
                             <div class="service-footer">
-                                <a href="404.php" class="service-btn">
+                                <a href="industrial-pump-uae.php" class="service-btn">
                                     <img src="assets/images/arrow-dark.svg" alt="Arrow">
                                 </a>
                             </div>
                         </div>
                         <div class="service-item">
-                            <a href="404.php">
+                            <a href="industrial-pump-bangladesh.php">
                                 <div class="icon-box image-anime">
                                     <img src="assets/images/bangladesh-banner.png" alt="Bangladesh">
                                 </div>
@@ -67,13 +75,13 @@ include('Templates/config.php');
                                 </div>
                             </a>
                             <div class="service-footer">
-                                <a href="404.php" class="service-btn">
+                                <a href="industrial-pump-bangladesh.php" class="service-btn">
                                     <img src="assets/images/arrow-dark.svg" alt="Arrow">
                                 </a>
                             </div>
                         </div>
                         <div class="service-item">
-                            <a href="404.php">
+                            <a href="https://www.globepump.com/industrial-pump-south-africa.php">
                                 <div class="icon-box image-anime">
                                     <img src="assets/images/africa-banner.jpg" alt="South Africa">
                                 </div>
@@ -82,11 +90,26 @@ include('Templates/config.php');
                                 </div>
                             </a>
                             <div class="service-footer">
-                                <a href="404.php" class="service-btn">
+                                <a href="https://www.globepump.com/industrial-pump-south-africa.php" class="service-btn">
                                     <img src="assets/images/arrow-dark.svg" alt="Arrow">
                                 </a>
                             </div>
-                        </div>                        
+                        </div>
+                         <div class="service-item">
+                            <a href="industrial-pump-india.php">
+                                <div class="icon-box image-anime">
+                                    <img src="assets/images/india-banner.png" alt="india">
+                                </div>
+                                <div class="service-body">
+                                    <h3>India</h3>
+                                </div>
+                            </a>
+                            <div class="service-footer">
+                                <a href="industrial-pump-india.php" class="service-btn">
+                                    <img src="assets/images/arrow-dark.svg" alt="Arrow">
+                                </a>
+                            </div>
+                        </div>                             
                     </div>
                 </div>
             </div>

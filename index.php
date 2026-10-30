@@ -17,8 +17,6 @@ include('Templates/config.php');
 
 	<meta name="keywords" content="Industrial pumps manufacturer company in Ahmedabad, Industrial pumps manufacturer company in Gujarat, Industrial pumps manufacturer company in India, Industrial pumps manufacturer company, Industrial pumps manufacturer" />
 
-	<meta property="og:site_name" content="Globe Star Engineers" />
-
 	<meta name="application-name" content="Globe Star Engineers" />
 
 	<meta name="apple-mobile-web-app-title" content="Globe Star Engineers" />
@@ -31,15 +29,87 @@ include('Templates/config.php');
 
 	<link rel="icon" type="image/png" sizes="48x48"
 	href="https://www.globepump.com/assets/images/favicon-icon.png" />
+	<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Globe Star Engineers (India) Pvt. Ltd.">
+<meta property="og:title" content="Industrial Pump Manufacturer in India | Globe Star Engineers">
+<meta property="og:description" content="Leading Industrial Pump Manufacturer in India offering AODD Pumps, Chemical Process Pumps, Sewage Pumps, Dewatering Pumps, Fire Fighting Pumps and more.">
+<meta property="og:url" content="https://www.globepump.com/">
+<meta property="og:image" content="https://www.globepump.com/assets/images/testimonial-image-1.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="en_IN">
 
-	<script type="application/ld+json">
-	{
-	  "@context": "https://schema.org",
-	  "@type": "WebSite",
-	  "name": "Globe Star Engineers",
-	  "url": "https://www.globepump.com/"
-	}
-	</script>
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Industrial Pump Manufacturer in India | Globe Star Engineers">
+<meta name="twitter:description" content="Leading Industrial Pump Manufacturer in India offering AODD Pumps, Chemical Process Pumps, Sewage Pumps, Dewatering Pumps, Fire Fighting Pumps and more.">
+<meta name="twitter:image" content="https://www.globepump.com/assets/images/testimonial-image-1.png">
+<meta name="twitter:site" content="@GlobeStarPump">
+<meta name="twitter:creator" content="@GlobeStarPump">
+
+<!-- Website Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://www.globepump.com/#website",
+  "url": "https://www.globepump.com/",
+  "name": "Globe Star Engineers (India) Pvt. Ltd.",
+  "alternateName": "Globe Pump",
+  "inLanguage": "en-IN",
+  "publisher": {
+    "@id": "https://www.globepump.com/#organization"
+  }
+}
+</script>
+
+<!-- Organization Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://www.globepump.com/#organization",
+  "name": "Globe Star Engineers (India) Pvt. Ltd.",
+  "url": "https://www.globepump.com/",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.globepump.com/assets/images/globepump-logo.png"
+  },
+  "email": "inquiry@globeseal.com",
+  "telephone": "+91-9537419590",
+  "sameAs": [
+    "https://www.facebook.com/GlobeStarEngineersIndiaPvtLtd",
+    "https://www.instagram.com/globestar_engineers/",
+    "https://www.linkedin.com/company/globe-star-engineers-india-pvt-ltd/",
+    "https://www.youtube.com/@Globestarengineersindiapvtltd",
+    "https://x.com/GlobeStarPump"
+  ]
+}
+</script>
+
+<!-- Local Business Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "@id": "https://www.globepump.com/#localbusiness",
+  "name": "Globe Star Engineers (India) Pvt. Ltd.",
+  "image": "https://www.globepump.com/assets/images/globepump-logo.png",
+  "url": "https://www.globepump.com/",
+  "telephone": "+91-9537419590",
+  "email": "inquiry@globeseal.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "615, 6th Floor, Girivar Glean Mall, Odhav Road, Odhav",
+    "addressLocality": "Ahmedabad",
+    "addressRegion": "Gujarat",
+    "postalCode": "382415",
+    "addressCountry": "IN"
+  },
+  "areaServed": "Worldwide"
+}
+</script>
 
 	<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Sora:wght@100..800&display=swap" rel="stylesheet">
 
@@ -169,7 +239,7 @@ include('Templates/config.php');
 						</div>
 						<div class="welcome-image-2">
 							<figure class="image-anime">
-								<img src="assets/images/welcome-image-2.png" alt="Globe Star Engineers (India)">
+								<img src="assets/images/welcome-image-1.jpg" alt="Globe Star Engineers (India)">
 							</figure>
 						</div>						
 					</div>
@@ -397,7 +467,7 @@ include('Templates/config.php');
 				<div class="col-lg-6">
 					<div class="what-we-do-image">
 						<figure class="image-anime">
-							<img src="assets/images/what-we-do-image.png" alt="Why We Are Different">
+							<img src="assets/images/what-we-do-image-2.png" alt="Why We Are Different">
 						</figure>
 					</div>
 				</div>
@@ -602,7 +672,7 @@ include('Templates/config.php');
 				<div class="col-lg-6">
 					<div class="testimonial-image">
 						<figure class="image-anime reveal">
-							<img src="assets/images/testimonial-image.png" alt="">
+							<img src="assets/images/testimonial-image-2.png" alt="testimonial">
 						</figure>
 					</div>
 				</div>
@@ -621,7 +691,7 @@ include('Templates/config.php');
 											</div>
 										</div>
 										<div class="testimonial-content">
-											<p>"GSE has exceeded my expectations with their top-notch water motor. The motor runs quietly and efficiently, providing a consistent water supply even during peak usage times. I was particularly impressed by the energy efficiency, which has noticeably reduced my electricity bills. The robust construction and modern design are a testament to the company's commitment to quality. I'll definitely be purchasing more products from them in the future."</p>
+											<p>"Excellent quality Globstar high-pressure pump. The pump is working smoothly and requires very little maintenance. The performance is satisfactory and reliable. Additionally, all employees are very cooperative, supportive, and provide excellent communication and discussion during service and technical support. We are satisfied with the overall product quality and service."</p>
 										</div>
 										<div class="testimonial-author">       
 											<div class="author-image">
@@ -630,7 +700,7 @@ include('Templates/config.php');
 												</figure>
 											</div>
 											<div class="author-content">
-												<h3>Jigar Panchal</h3>
+												<h3>Shailesh Jadav</h3>
 												<p>People</p>
 											</div>
 										</div>
@@ -647,7 +717,7 @@ include('Templates/config.php');
 											</div>
 										</div>
 										<div class="testimonial-content">
-											<p>"Globe Star Engineering Pvt. Ltd. offers a wide range of pumps including Mud Pumps, PP Pumps, Gear Pumps, Process Pumps, and even customized solutions. All products are available at competitive prices without compromising on quality. I had a really good experience with their service and professionalism. Highly recommended!"</p>
+											<p>"Globe Star is a very reliable and professional pump supplier. We have been associated with them for the last 3 years and are highly satisfied with their product quality and service. Special thanks to Ms. Vrunda Dave for her excellent support, prompt response, and professional behavior. She is always helpful and ensures smooth coordination. We look forward to continuing our long-term business relationship with Globe Star Engineers."</p>
 										</div>
 										<div class="testimonial-author">       
 											<div class="author-image">
@@ -656,7 +726,7 @@ include('Templates/config.php');
 												</figure>
 											</div>
 											<div class="author-content">
-												<h3>Dhanani Anjali</h3>
+												<h3>Vikash Kumar</h3>
 												<p>People</p>
 											</div>
 										</div>
@@ -699,16 +769,16 @@ include('Templates/config.php');
 											</div>
 										</div>
 										<div class="testimonial-content">
-											<p>"Globe Star Engineering Pvt. Ltd. truly impressed me with their wide range of pumps like Mud Pumps, PP Pumps, Gear Pumps, Process Pumps, and customized pumps. Their products are of excellent quality and available at very reasonable prices. The staff is supportive and professional, making the overall experience smooth and satisfying."</p>
+											<p>"Takes 10+ Chemical Pumps From Globestar. Got Pumps On Time. Globe Team Is Technically Sound So i Got Always Solution. Using Pumps Sings 4 Years, The Spare Parts Are Also In Reasonable Price."</p>
 										</div>
-										<div class="testimonial-author">       
+										<div class="testimonial-author">
 											<div class="author-image">
 												<figure class="image-anime">
 													<img src="assets/images/author.png" alt="People">
 												</figure>
 											</div>
 											<div class="author-content">
-												<h3>Viki Shingadiya</h3>
+												<h3>Siddharth Khatri</h3>
 												<p>People</p>
 											</div>
 										</div>
@@ -727,7 +797,7 @@ include('Templates/config.php');
 										<div class="testimonial-content">
 											<p>"I had a great experience with Globe Star Engineering Pvt. Ltd. They provide high-quality pumps including Mud, PP, Gear, Process, and customized pumps, all at competitive prices. The durability and performance of their products are remarkable. Along with that, their customer service is very responsive and professional. Highly reliable company!"</p>
 										</div>
-										<div class="testimonial-author">       
+										<div class="testimonial-author">  
 											<div class="author-image">
 												<figure class="image-anime">
 													<img src="assets/images/author.png" alt="People">

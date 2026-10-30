@@ -10,7 +10,7 @@ include('Templates/config.php');
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0" />
     <title>Industrial Mud Pump Manufacturer in India | Supplier and Exporter</title>
-    <meta name="description" content="Durable mud pump manufacturer in india for efficient handling of slurry, wastewater, and industrial fluids. Designed for reliability in tough environments." />
+    <meta name="description" content="Globe Star Engineers is a trusted Industrial Mud Pump Manufacturer in India offering heavy-duty mud pumps for slurry, sewage, wastewater, mining and industrial applications.">
     <meta name="keywords" content="Mud Pump | Mud Pumps Supplier Bangalore |Mud Pumps Manufacturer Chennai |Mud Pump Dealer Delhi |Mud Pump Exporter Hyderabad |Mud Pumps Supplier Kolkata |Mud Pumps Manufacturer Mumbai |Mud Pump Dealer Ahmedabad |Mud Pump Exporter Pune |Mud Pumps Supplier Agra |Mud Pumps Manufacturer Ajmer |Mud Pump Dealer Aligarh |Mud Pump Exporter Amravati |Mud Pumps Supplier Amritsar |Mud Pumps Manufacturer Aurangabad |Mud Pump Dealer Bareilly |Mud Pump Exporter Belgaum |Mud Pumps Supplier Bhavnagar |Mud Pumps Manufacturer Bhiwandi |Mud Pump Dealer Bhopal |Mud Pump Exporter Bhubaneswar |Mud Pumps Supplier Bikaner |Mud Pumps Manufacturer Bilaspur |Mud Pump Dealer Chandigarh |Mud Pump Exporter Coimbatore |Mud Pumps Supplier Dehradun |Mud Pumps Manufacturer Dhanbad |Mud Pump Dealer Bhilai |Mud Pump Exporter Durgapur |Mud Pumps Supplier Faridabad |Mud Pumps Manufacturer Firozabad |Mud Pump Dealer Ghaziabad |Mud Pump Exporter Gorakhpur |Mud Pumps Supplier Gulbarga |Mud Pumps Manufacturer Guntur |Mud Pump Dealer Gwalior |Mud Pump Exporter Gurgaon |Mud Pumps Supplier Guwahati |Mud Pumps Manufacturer Hubli–Dharwad |Mud Pump Dealer Indore |Mud Pump Exporter Jabalpur |Mud Pumps Supplier Jaipur |Mud Pumps Manufacturer Jalandhar |Mud Pump Dealer Jammu |Mud Pump Exporter Jamnagar |Mud Pumps Supplier Jamshedpur |Mud Pumps Manufacturer Jhansi |Mud Pump Dealer Jodhpur |Mud Pump Exporter Kannur |Mud Pumps Supplier Kanpur |Mud Pumps Manufacturer Kochi |Mud Pump Dealer Kolhapur |Mud Pump Exporter Kozhikode |Mud Pumps Supplier Ludhiana |Mud Pumps Manufacturer Lucknow |Mud Pump Dealer Madurai |Mud Pump Exporter Mathura |Mud Pumps Supplier Goa |Mud Pumps Manufacturer Mangalore |Mud Pump Dealer Meerut |Mud Pump Exporter Moradabad |Mud Pumps Supplier Mysore |Mud Pumps Manufacturer Nagpur |Mud Pump Dealer Nanded |Mud Pump Exporter Nashik |Mud Pumps Supplier Noida |Mud Pumps Manufacturer Patna |Mud Pump Dealer Raipur |Mud Pump Exporter Rajkot |Mud Pumps Supplier Ranchi |Mud Pumps Manufacturer Rourkela |Mud Pump Dealer Sangli |Mud Pump Exporter Shimla |Mud Pumps Supplier Siliguri |Mud Pumps Manufacturer Solapur |Mud Pump Dealer Srinagar |Mud Pump Exporter Surat |Mud Pumps Supplier Ujjain |Mud Pumps Manufacturer Vadodara |Mud Pump Dealer Varanasi |Mud Pump Exporter Vijayawada |Mud Pumps Supplier Visakhapatnam |Mud Pumps Manufacturer Warangal" />
 	<link rel="icon" href="<?php echo SITE_PATH; ?>assets/images/favicon-icon.png" type="image/x-icon" />
 	<link rel="shortcut icon" type="image/x-icon" href="<?php echo SITE_PATH; ?>assets/images/favicon-icon.png">
@@ -18,6 +18,84 @@ include('Templates/config.php');
 	<link rel="canonical" href="<?php echo $path; ?>" />
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Sora:wght@100..800&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <!-- Open Graph -->
+<meta property="og:type" content="product">
+<meta property="og:site_name" content="Globe Star Engineers (India) Pvt. Ltd.">
+<meta property="og:title" content="Industrial Mud Pump Manufacturer in India | Supplier and Exporter">
+<meta property="og:description" content="Durable industrial mud pump manufacturer in India for efficient handling of slurry, wastewater and industrial fluids. High-performance mud pumps from Globe Star Engineers.">
+<meta property="og:url" content="<?php echo $path; ?>">
+<meta property="og:image" content="https://www.globepump.com/assets/images/industrial-mud-pump-inner.png">
+<meta property="og:image:alt" content="Industrial Mud Pump Manufacturer in India">
+<meta property="og:locale" content="en_US">
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Industrial Mud Pump Manufacturer in India | Supplier and Exporter">
+<meta name="twitter:description" content="High-quality industrial mud pumps for slurry, sewage, wastewater and industrial applications from Globe Star Engineers.">
+<meta name="twitter:image" content="https://www.globepump.com/assets/images/industrial-mud-pump-inner.png">
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Product",
+  "name":"Industrial Mud Pump",
+  "image":"https://www.globepump.com/assets/images/industrial-mud-pump-inner.png",
+  "description":"Industrial Mud Pump manufactured by Globe Star Engineers (India) Pvt. Ltd. for slurry, mud, wastewater, sewage and industrial fluid handling applications.",
+  "brand":{
+    "@type":"Brand",
+    "name":"Globe Star"
+  },
+  "manufacturer":{
+    "@type":"Organization",
+    "name":"Globe Star Engineers (India) Pvt. Ltd.",
+    "url":"https://www.globepump.com/"
+  },
+  "category":"Industrial Pump",
+  "url":"<?php echo $path; ?>",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.globepump.com/industrial-mud-pump.php",
+    "priceCurrency": "INR",
+    "price": "1",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition"
+  }
+    }
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"BreadcrumbList",
+  "itemListElement":[
+    {
+      "@type":"ListItem",
+      "position":1,
+      "name":"Home",
+      "item":"https://www.globepump.com/"
+    },
+    {
+      "@type":"ListItem",
+      "position":2,
+      "name":"Our Products",
+      "item":"https://www.globepump.com/our-products.php"
+    },
+    {
+      "@type":"ListItem",
+      "position":3,
+      "name":"Industrial Mud Pump",
+      "item":"<?php echo $path; ?>"
+    }
+  ]
+}
+</script>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LLK0D2BP1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-0LLK0D2BP1');
+</script>
 </head>
 
 <body>
