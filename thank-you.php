@@ -18,6 +18,14 @@ include('Templates/config.php');
 	<link rel="canonical" href="<?php echo $path; ?>" />
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Sora:wght@100..800&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LLK0D2BP1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-0LLK0D2BP1');
+</script>
 </head>
 
 <body>
@@ -72,3 +80,17 @@ include('Templates/config.php');
     </div>
 
 	<?php include('Templates/footer.php'); ?>
+   <script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+
+window.addEventListener("load", function () {
+    gtag("event", "generate_lead", {
+        form_name: "Contact Form",
+        page_title: document.title,
+        page_location: window.location.href
+    });
+});
+</script>
+</body>
+</html>

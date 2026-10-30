@@ -9,7 +9,7 @@ include('Templates/config.php');
 	<meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0" />
-    <title>Sewage Pump manufacturer in india | Globe Star Engineers (India) Pvt. Ltd.</title>
+    <title>Sewage Pump manufacturer in india | Globe Star Engineers</title>
     <meta name="description" content="Find reliable Sewage Pump from Globe Star Engineers, a trusted industrial Sewage pump manufacturer in india. We offer durable and efficient pumping solutions for various applications." />
     <meta name="keywords" content="Sewage Pump | Sewage Pump manufacturer | Sewage Pump Systems | Industrial Sewage Pumps | Sewage Pump manufacturer ahmedabad | Sewage Pump manufacturer gujarat | Sewage Pump manufacturer india" />
 	<link rel="icon" href="<?php echo SITE_PATH; ?>assets/images/favicon-icon.png" type="image/x-icon" />
@@ -18,6 +18,84 @@ include('Templates/config.php');
 	<link rel="canonical" href="<?php echo $path; ?>" />
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Sora:wght@100..800&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <!-- Open Graph -->
+<meta property="og:type" content="product">
+<meta property="og:title" content="Sewage Pump Manufacturer in India | Globe Star Engineers (India) Pvt. Ltd.">
+<meta property="og:description" content="Find reliable Sewage Pumps from Globe Star Engineers, a trusted sewage pump manufacturer in India offering durable and efficient pumping solutions for industrial wastewater applications.">
+<meta property="og:url" content="https://www.globepump.com/sewage-pump.php">
+<meta property="og:site_name" content="Globe Star Engineers (India) Pvt. Ltd.">
+<meta property="og:image" content="https://www.globepump.com/assets/images/sewage-pump-inner.png">
+<meta property="og:image:alt" content="Industrial Sewage Pump">
+<meta property="og:locale" content="en_US">
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Sewage Pump Manufacturer in India | Globe Star Engineers">
+<meta name="twitter:description" content="Industrial Sewage Pumps for wastewater, ETP, STP, mining and municipal applications. Manufactured by Globe Star Engineers.">
+<meta name="twitter:image" content="https://www.globepump.com/assets/images/sewage-pump-inner.png">
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Product",
+  "name":"Sewage Pump",
+  "image":"https://www.globepump.com/assets/images/sewage-pump-inner.png",
+  "description":"Industrial Sewage Pump designed for wastewater, ETP, STP, municipal, mining and industrial applications.",
+  "brand":{
+    "@type":"Brand",
+    "name":"Globe Star Engineers (India) Pvt. Ltd."
+  },
+  "manufacturer":{
+    "@type":"Organization",
+    "name":"Globe Star Engineers (India) Pvt. Ltd.",
+    "url":"https://www.globepump.com/"
+  },
+  "category":"Industrial Sewage Pump",
+  "url":"https://www.globepump.com/sewage-pump.php",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.globepump.com/sewage-pump.php",
+    "priceCurrency": "INR",
+    "price": "1",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition"
+  }
+    }
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"BreadcrumbList",
+  "itemListElement":[
+    {
+      "@type":"ListItem",
+      "position":1,
+      "name":"Home",
+      "item":"https://www.globepump.com/"
+    },
+    {
+      "@type":"ListItem",
+      "position":2,
+      "name":"Our Products",
+      "item":"https://www.globepump.com/our-products.php"
+    },
+    {
+      "@type":"ListItem",
+      "position":3,
+      "name":"Sewage Pump",
+      "item":"https://www.globepump.com/sewage-pump.php"
+    }
+  ]
+}
+</script>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LLK0D2BP1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-0LLK0D2BP1');
+</script>
 </head>
 
 <body>
