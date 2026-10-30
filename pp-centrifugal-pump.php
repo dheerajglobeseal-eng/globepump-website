@@ -18,6 +18,111 @@ include('Templates/config.php');
 	<link rel="canonical" href="<?php echo $path; ?>" />
    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Sora:wght@100..800&display=swap" rel="stylesheet">
    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+   <meta property="og:type" content="product">
+<meta property="og:title" content="PP Centrifugal Pump | Polypropylene Process Pump">
+<meta property="og:description" content="Reliable PP Centrifugal Pumps for chemical and corrosive liquid transfer.">
+<meta property="og:url" content="https://www.globepump.com/pp-centrifugal-pump.php">
+<meta property="og:image" content="https://www.globepump.com/assets/images/pp-centrifugal-pump-inner.png">
+<meta property="og:site_name" content="Globe Star Engineers">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="PP Centrifugal Pump">
+<meta name="twitter:description" content="Manufacturer of PP Centrifugal Pumps in India.">
+<meta name="twitter:image" content="https://www.globepump.com/assets/images/pp-centrifugal-pump-inner.png">
+<!-- Product Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "PP Centrifugal Pump",
+  "image": [
+    "https://www.globepump.com/assets/images/pp-centrifugal-pump-inner.png"
+  ],
+  "description": "Globe Star Engineers (India) Pvt. Ltd. manufactures PP Centrifugal Pumps and Polypropylene Process Pumps for handling corrosive chemicals, acids, alkalis, solvents and industrial fluids.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Globe Star"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Globe Star Engineers (India) Pvt. Ltd."
+  },
+  "category": "Industrial Pump",
+  "url": "https://www.globepump.com/pp-centrifugal-pump.php",
+  "sku": "GHE-GXP-GMPP-Series",
+  "offers": {
+  "@type": "Offer",
+  "url": "https://www.globepump.com/pp-centrifugal-pump.php",
+  "priceCurrency": "INR",
+  "price": "1",
+  "availability": "https://schema.org/InStock",
+  "itemCondition": "https://schema.org/NewCondition"
+},
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Material",
+      "value": "PP, PVDF, UHMWPE"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Flow Rate",
+      "value": "Up to 50 m³/hr"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Head",
+      "value": "Up to 60 m"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Temperature",
+      "value": "Up to 120°C"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Speed",
+      "value": "1440 RPM / 2880 RPM"
+    }
+  ]
+}
+</script>
+
+<!-- Breadcrumb Schema -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"BreadcrumbList",
+  "itemListElement":[
+    {
+      "@type":"ListItem",
+      "position":1,
+      "name":"Home",
+      "item":"https://www.globepump.com/"
+    },
+    {
+      "@type":"ListItem",
+      "position":2,
+      "name":"Our Products",
+      "item":"https://www.globepump.com/our-products.php"
+    },
+    {
+      "@type":"ListItem",
+      "position":3,
+      "name":"PP Centrifugal Pump",
+      "item":"https://www.globepump.com/pp-centrifugal-pump.php"
+    }
+  ]
+}
+</script>
+
+   <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LLK0D2BP1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-0LLK0D2BP1');
+</script>
 </head>
 
 <body>

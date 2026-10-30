@@ -20,7 +20,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $bcc = "info@globepump.com";
 
     // Email subject
-    $subject = "***Customer Enquiry (Popup Form) www.globepump.com | Crafted by Growup Business Solution***";
+    $subject = "***Customer Enquiry (Popup Form) www.globepump.com***";
 
     // Collecting form data
     $name = trim($_POST['customername']);
