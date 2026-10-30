@@ -10,14 +10,100 @@ include('Templates/config.php');
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0" />
     <title>Why Annual Centrifugal Pump Maintenance Matters More Than Most Plants Realize</title>
-    <meta name="description" content="Why Annual Centrifugal Pump Maintenance Matters More Than Most Plants Realize" />
-    <meta name="keywords" content="Centrifugal Pump Maintenance" />
+    <meta name="description" content="Discover why annual centrifugal pump maintenance is essential for improving efficiency, reducing downtime, extending equipment life, and lowering operating costs with expert maintenance practices.">
+    <meta name="keywords" content="Centrifugal Pump Maintenance, Annual Pump Maintenance, Industrial Pump Maintenance, Centrifugal Pump Service, Pump Inspection, Pump Reliability, Pump Efficiency, Preventive Pump Maintenance">
     <link rel="icon" href="<?php echo SITE_PATH; ?>assets/images/favicon-icon.png" type="image/x-icon" />
     <link rel="shortcut icon" type="image/x-icon" href="<?php echo SITE_PATH; ?>assets/images/favicon-icon.png">
     <?php $path = 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>
     <link rel="canonical" href="<?php echo $path; ?>" />
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Sora:wght@100..800&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "<?php echo $path; ?>"
+  },
+  "headline": "Why Annual Centrifugal Pump Maintenance Matters More Than Most Plants Realize",
+  "description": "Learn why annual centrifugal pump maintenance is essential for improving efficiency, reducing downtime, extending equipment life, and minimizing energy losses in industrial applications.",
+  "image": "https://www.globepump.com/assets/images/annual-centrifugal-pump-maintenance-service.png",
+  "author": {
+    "@type": "Organization",
+    "name": "Globe Star Engineers (India) Pvt. Ltd.",
+    "url": "https://www.globepump.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Globe Star Engineers (India) Pvt. Ltd.",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.globepump.com/assets/images/globepump-logo.png"
+    }
+  },
+  "datePublished": "2026-05-26",
+  "dateModified": "2026-05-26",
+  "articleSection": "Centrifugal Pumps",
+  "keywords": [
+    "Centrifugal Pump Maintenance",
+    "Industrial Pump Maintenance",
+    "Pump Reliability",
+    "Pump Inspection",
+    "Pump Efficiency",
+    "Preventive Maintenance",
+    "Pump Service",
+    "Industrial Pumps"
+  ],
+  "articleBody": "This article explains why annual centrifugal pump maintenance is essential for improving pump efficiency, reducing unexpected downtime, minimizing energy losses, extending equipment life, and maintaining reliable industrial operations. It covers hydraulic inspection, condition monitoring, performance analysis, and preventive maintenance best practices.",
+  "url": "<?php echo $path; ?>",
+  "inLanguage": "en-US",
+  "isPartOf": {
+    "@type": "Blog",
+    "name": "Globe Pump Blog",
+    "url": "https://www.globepump.com/blog.php"
+  },
+  "about": {
+    "@type": "Thing",
+    "name": "Centrifugal Pump Maintenance"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://www.globepump.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Blog",
+      "item": "https://www.globepump.com/blog.php"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Why Annual Centrifugal Pump Maintenance Matters More Than Most Plants Realize",
+      "item": "<?php echo $path; ?>"
+    }
+  ]
+}
+</script>
+
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LLK0D2BP1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-0LLK0D2BP1');
+</script>   
 </head>
 
 <body>

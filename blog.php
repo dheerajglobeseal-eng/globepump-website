@@ -18,6 +18,14 @@ include('Templates/config.php');
 	<link rel="canonical" href="<?php echo $path; ?>" />
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Sora:wght@100..800&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LLK0D2BP1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-0LLK0D2BP1');
+</script>
 </head>
 
 <body>
@@ -40,6 +48,116 @@ include('Templates/config.php');
     <section class="blogs-section-two">
         <div class="container">
             <div class="blogs-row">
+                <div class="blog-block-two col-lg-6 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="https://www.globepump.com/centrifugal-pumps-for-chemical-processing.php">
+                                    <img src="https://www.globepump.com/assets/images/centrifugal-pumps-for-chemical-processing.png" alt="Centrifugal Pumps for Chemical Processing: Applications, Selection & Material Guide">
+                                </a>
+                            </figure>
+                        </div>
+                        <div class="lower-content">
+                            <div class="cp-blog-meta lh-1">
+                                <span>05 October 2026</span>
+                            </div>
+                            <h3><a href="https://www.globepump.com/centrifugal-pumps-for-chemical-processing.php">Centrifugal Pumps for Chemical Processing: Applications, Selection & Material Guide</a></h3>
+                            <p>Chemical processing plants require dependable pumping equipment for transferring, circulating, and handling a wide range of industrial liquids.......</p>
+
+                            <div class="more-btn">
+                                <a href="https://www.globepump.com/centrifugal-pumps-for-chemical-processing.php" class="btn-default"><span>Read More</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 <div class="blog-block-two col-lg-6 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="https://www.globepump.com/centrifugal-process-pump-applications-across-industries.php">
+                                    <img src="https://www.globepump.com/assets/images/centrifugal-pump-applications-across-different-industries.png" alt="Centrifugal Process Pump Applications Across Different Industries">
+                                </a>
+                            </figure>
+                        </div>
+                        <div class="lower-content">
+                            <div class="cp-blog-meta lh-1">
+                                <span>21 August 2026</span>
+                            </div>
+                            <h3><a href="https://www.globepump.com/centrifugal-process-pump-applications-across-industries.php">Centrifugal Process Pump Applications Across Different Industries</a></h3>
+                            <p>In industrial manufacturing, the reliable movement of liquids is essential for maintaining continuous production. From chemical processing and pharmaceuticals to dyes, pigments, food processing, and other manufacturing operations......</p>
+
+                            <div class="more-btn">
+                                <a href="https://www.globepump.com/centrifugal-process-pump-applications-across-industries.php" class="btn-default"><span>Read More</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-block-two col-lg-6 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="https://www.globepump.com/fire-fighting-pumps-backbone-fire-protection-system.php">
+                                    <img src="https://www.globepump.com/assets/images/fire-fighting-pumps-backbone-of-every-fire-protection-system.png" alt="Fire Fighting Pumps: The Backbone of Every Fire Protection System">
+                                </a>
+                            </figure>
+                        </div>
+                        <div class="lower-content">
+                            <div class="cp-blog-meta lh-1">
+                                <span>06 August 2026</span>
+                            </div>
+                            <h3><a href="https://www.globepump.com/fire-fighting-pumps-backbone-fire-protection-system.php">Fire Fighting Pumps: The Backbone of Every Fire Protection System</a></h3>
+                            <p>A Fire Fighting Pump is one of the most critical components of any fire protection system. It ensures adequate water pressure and flow to fire hydrants, sprinkler systems, hose reels, and monitors during a fire emergency.....</p>
+
+                            <div class="more-btn">
+                                <a href="https://www.globepump.com/fire-fighting-pumps-backbone-fire-protection-system.php" class="btn-default"><span>Read More</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-block-two col-lg-6 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="https://www.globepump.com/sewage-submersible-pump-working-applications-selection-maintenance.php">
+                                    <img src="https://www.globepump.com/assets/images/sewage-submersible-pump-working-applications-selection-maintenance.png" alt="Sewage Submersible Pumps: Complete Guide to Working, Applications, Selection & Maintenance">
+                                </a>
+                            </figure>
+                        </div>
+                        <div class="lower-content">
+                            <div class="cp-blog-meta lh-1">
+                                <span>16 July 2026</span>
+                            </div>
+                            <h3><a href="https://www.globepump.com/sewage-submersible-pump-working-applications-selection-maintenance.php">Sewage Submersible Pumps: Complete Guide to Working, Applications, Selection & Maintenance</a></h3>
+                            <p>Sewage Submersible Pumps are specially designed to handle wastewater, sewage, sludge, and liquids containing suspended solids. These pumps operate while fully submerged in the pumped liquid, making them an ideal solution for....</p>
+
+                            <div class="more-btn">
+                                <a href="https://www.globepump.com/sewage-submersible-pump-working-applications-selection-maintenance.php" class="btn-default"><span>Read More</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-block-two col-lg-6 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image">
+                                <a href="https://www.globepump.com/troubleshooting-common-problems-in-aodd-pumps.php">
+                                    <img src="https://www.globepump.com/assets/images/troubleshooting-common-problems-in-aodd-pumps.png" alt="Troubleshooting Common Problems in AODD Pumps">
+                                </a>
+                            </figure>
+                        </div>
+                        <div class="lower-content">
+                            <div class="cp-blog-meta lh-1">
+                                <span>05 Jun 2026</span>
+                            </div>
+                            <h3><a href="https://www.globepump.com/troubleshooting-common-problems-in-aodd-pumps.php">Troubleshooting Common Problems in AODD Pumps</a></h3>
+                            <p>Air Operated Double Diaphragm (AODD) pumps are widely used across industries due to their versatility, self-priming capability, dry-run tolerance, and ability to handle abrasive, viscous, and corrosive fluids. However, like any mechanical equipment, AODD pumps may experience...</p>
+
+                            <div class="more-btn">
+                                <a href="https://www.globepump.com/troubleshooting-common-problems-in-aodd-pumps.php" class="btn-default"><span>Read More</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="blog-block-two col-lg-6 col-md-6 col-sm-12">
                     <div class="inner-box">
                         <div class="image-box">

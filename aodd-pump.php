@@ -18,6 +18,107 @@ include('Templates/config.php');
 	<link rel="canonical" href="<?php echo $path; ?>" />
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Sora:wght@100..800&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <meta property="og:title" content="AODD Pump Manufacturers in India | Globe Star Engineers">
+<meta property="og:description" content="Leading AODD Pump Manufacturers in India.">
+<meta property="og:image" content="https://www.globepump.com/assets/images/aodd-pump-inner.png">
+<meta property="og:url" content="https://www.globepump.com/aodd-pump.php">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="AODD Pump Manufacturers in India">
+<meta name="twitter:description" content="Leading AODD Pump Manufacturers in India.">
+<meta name="twitter:image" content="https://www.globepump.com/assets/images/aodd-pump-inner.png">
+    <!-- Product Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://www.globepump.com/aodd-pump.php#product",
+  "name": "Air Operated Double Diaphragm (AODD) Pump",
+  "image": [
+    "https://www.globepump.com/assets/images/aodd-pump-inner.png",
+    "https://www.globepump.com/assets/images/air-operated-double-diaphragm-pump.png",
+    "https://www.globepump.com/assets/images/air-operated-double-diaphragm-pump-01.png"
+  ],
+  "description": "Globe Star Engineers (India) Pvt. Ltd. is a leading AODD Pump Manufacturer in India, offering high-performance Air Operated Double Diaphragm Pumps for chemical, pharmaceutical, paint, ink, ceramic and industrial fluid transfer applications.",
+  "sku": "AODD-PUMP",
+  "brand": {
+    "@type": "Brand",
+    "name": "Globe Star Engineers"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Globe Star Engineers (India) Pvt. Ltd."
+  },
+  "category": "Industrial Pump",
+  "url": "https://www.globepump.com/aodd-pump.php",
+   "offers": {
+    "@type": "Offer",
+    "url": "https://www.globepump.com/pp-centrifugal-pump.php",
+    "priceCurrency": "INR",
+    "price": "1",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition"
+  },
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Flow Rate",
+      "value": "45 to 998 LPM"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Maximum Head",
+      "value": "100 m"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Maximum Discharge Pressure",
+      "value": "120 PSI"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Body Material",
+      "value": "Aluminium, PP, PVDF, SS304, SS316, SS316L"
+    }
+  ]
+}
+</script>
+
+<!-- Breadcrumb Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://www.globepump.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Our Products",
+      "item": "https://www.globepump.com/our-products.php"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "AODD Pump",
+      "item": "https://www.globepump.com/aodd-pump.php"
+    }
+  ]
+}
+</script>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LLK0D2BP1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-0LLK0D2BP1');
+</script>
 </head>
 
 <body>
@@ -255,7 +356,7 @@ include('Templates/config.php');
                                                 <td>1:1</td>
                                             </tr>
                                             <tr>
-                                                <td>SOUND LAVEL</td>
+                                                <td>SOUND LEVEL</td>
                                                 <td>75.0 db</td>
                                                 <td>64.5 db</td>
                                                 <td>78.0 db</td>

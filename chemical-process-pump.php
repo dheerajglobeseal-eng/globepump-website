@@ -18,6 +18,108 @@ include('Templates/config.php');
 	<link rel="canonical" href="<?php echo $path; ?>" />
    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Sora:wght@100..800&display=swap" rel="stylesheet">
    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+   <!-- Open Graph -->
+<meta property="og:type" content="product">
+<meta property="og:title" content="Chemical Process Pump Manufacturers in India | Globe Star">
+<meta property="og:description" content="Find best Chemical Process Pumps in India from Globe Star Engineers. Designed for corrosive and hazardous chemical transfer applications.">
+<meta property="og:url" content="https://www.globepump.com/chemical-process-pump.php">
+<meta property="og:site_name" content="Globe Star Engineers">
+<meta property="og:image" content="https://www.globepump.com/assets/images/chemical-process-pump-inner.png">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Chemical Process Pump Manufacturers in India | Globe Star">
+<meta name="twitter:description" content="Leading Chemical Process Pump Manufacturer in India offering reliable industrial pumping solutions.">
+<meta name="twitter:image" content="https://www.globepump.com/assets/images/chemical-process-pump-inner.png">
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Product",
+  "@id":"https://www.globepump.com/chemical-process-pump.php#product",
+  "name":"Chemical Process Pump",
+  "image":[
+    "https://www.globepump.com/assets/images/chemical-process-pump-inner.png",
+    "https://www.globepump.com/assets/images/chemical-process-pump-05.png",
+    "https://www.globepump.com/assets/images/chemical-process-pump-03.png"
+  ],
+  "description":"Globe Star Engineers manufactures high-performance Chemical Process Pumps for chemical, pharmaceutical, petrochemical, food processing and industrial applications.",
+  "sku":"CHEMICAL-PROCESS-PUMP",
+   "offers": {
+    "@type": "Offer",
+    "url": "https://www.globepump.com/pp-centrifugal-pump.php",
+    "priceCurrency": "INR",
+    "price": "1",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition"
+  },
+  "brand":{
+    "@type":"Brand",
+    "name":"Globe Star Engineers"
+  },
+  "manufacturer":{
+    "@type":"Organization",
+    "name":"Globe Star Engineers (India) Pvt. Ltd."
+  },
+  "category":"Industrial Pump",
+  "url":"https://www.globepump.com/chemical-process-pump.php",
+  "additionalProperty":[
+    {
+      "@type":"PropertyValue",
+      "name":"Capacity",
+      "value":"Up to 400 m³/hr"
+    },
+    {
+      "@type":"PropertyValue",
+      "name":"Head",
+      "value":"Up to 150 m"
+    },
+    {
+      "@type":"PropertyValue",
+      "name":"Pressure",
+      "value":"Up to 16 bar"
+    },
+    {
+      "@type":"PropertyValue",
+      "name":"Temperature",
+      "value":"Up to 200°C"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+ "@context":"https://schema.org",
+ "@type":"BreadcrumbList",
+ "itemListElement":[
+   {
+     "@type":"ListItem",
+     "position":1,
+     "name":"Home",
+     "item":"https://www.globepump.com/"
+   },
+   {
+     "@type":"ListItem",
+     "position":2,
+     "name":"Our Products",
+     "item":"https://www.globepump.com/our-products.php"
+   },
+   {
+     "@type":"ListItem",
+     "position":3,
+     "name":"Chemical Process Pump",
+     "item":"https://www.globepump.com/chemical-process-pump.php"
+   }
+ ]
+}
+</script>
+   <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LLK0D2BP1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-0LLK0D2BP1');
+</script>
 </head>
 
 <body>

@@ -9,15 +9,90 @@ include('Templates/config.php');
 	<meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0" />
-    <title>Submersible Dewatering Pump Manufacturers in India | Globe Star</title>
-    <meta name="description" content="Find reliable Submersible Dewatering Pump from Globe Star, a trusted Submersible Dewatering Pump Manufacturers in India. We offer durable and efficient pumping solutions for various applications." />
-    <meta name="keywords" content="Submersible Dewatering Pump | Submersible Dewatering Pump manufacturer | Submersible Dewatering Pump Systems | Industrial Submersible Dewatering Pumps | Submersible Dewatering Pump manufacturer ahmedabad | Submersible Dewatering Pump manufacturer gujarat | Submersible Dewatering Pump manufacturer india" />
+    <title>Dewatering Pump manufacturers in India | Globe Star</title>
+    <meta name="description" content="Find reliable Dewatering Pump from Globe Star, a trusted Dewatering Pump Manufacturers in India. We offer durable and efficient pumping solutions for various applications." />
+    <meta name="keywords" content="Submersible Dewatering Pump | Submersible Dewatering Pump manufacturer | Submersible Dewatering Pump Systems | Industrial Submersible Dewatering Pumps | Submersible Dewatering Pump manufacturer ahmedabad | Submersible Dewatering Pump manufacturer gujarat | Submersible Dewatering Pump manufacturer india | Dewatering Pump | Dewatering Pump in india | Dewatering Pump manufacturers in india" />
 	<link rel="icon" href="<?php echo SITE_PATH; ?>assets/images/favicon-icon.png" type="image/x-icon" />
 	<link rel="shortcut icon" type="image/x-icon" href="<?php echo SITE_PATH; ?>assets/images/favicon-icon.png">
 	<?php $path = 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>
 	<link rel="canonical" href="<?php echo $path; ?>" />
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Sora:wght@100..800&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+   <!-- Open Graph -->
+<meta property="og:type" content="product">
+<meta property="og:site_name" content="Globe Star Engineers (India) Pvt. Ltd.">
+<meta property="og:title" content="Dewatering Pump Manufacturers in India | Globe Star">
+<meta property="og:description" content="Reliable Dewatering Pump Manufacturers in India offering high-performance submersible dewatering pumps for industrial applications.">
+<meta property="og:url" content="https://www.globepump.com/dewatering-pump.php">
+<meta property="og:image" content="https://www.globepump.com/assets/images/dewatering-pump-inner.png">
+<meta property="og:image:alt" content="Dewatering Pump">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Dewatering Pump Manufacturers in India | Globe Star">
+<meta name="twitter:description" content="Industrial Submersible Dewatering Pumps for mining, construction and wastewater applications.">
+<meta name="twitter:image" content="https://www.globepump.com/assets/images/dewatering-pump-inner.png">
+<script type="application/ld+json">
+{
+"@context":"https://schema.org",
+"@type":"Product",
+"name":"Dewatering Pump",
+"image":"https://www.globepump.com/assets/images/dewatering-pump-inner.png",
+"description":"Submersible Dewatering Pump for mining, construction, wastewater and industrial applications.",
+"brand":{
+"@type":"Brand",
+"name":"Globe Star"
+},
+"manufacturer":{
+"@type":"Organization",
+"name":"Globe Star Engineers (India) Pvt. Ltd."
+},
+"category":"Industrial Pump",
+"url":"https://www.globepump.com/dewatering-pump.php",
+"offers":{
+"@type":"Offer",
+"url":"https://www.globepump.com/dewatering-pump.php",
+"priceCurrency":"INR",
+"price": "1",
+"availability":"https://schema.org/InStock",
+"itemCondition":"https://schema.org/NewCondition"
+}
+}
+</script>
+<script type="application/ld+json">
+{
+"@context":"https://schema.org",
+"@type":"BreadcrumbList",
+"itemListElement":[
+{
+"@type":"ListItem",
+"position":1,
+"name":"Home",
+"item":"https://www.globepump.com/"
+},
+{
+"@type":"ListItem",
+"position":2,
+"name":"Our Products",
+"item":"https://www.globepump.com/our-products.php"
+},
+{
+"@type":"ListItem",
+"position":3,
+"name":"Dewatering Pump",
+"item":"https://www.globepump.com/dewatering-pump.php"
+}
+]
+}
+</script>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LLK0D2BP1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-0LLK0D2BP1');
+</script>
 </head>
 
 <body>
@@ -532,12 +607,12 @@ include('Templates/config.php');
                   </div>
                   <div class="service-entry">
                      <div class="service-solutions-box">
-                        <h2 class="text-anime-style-3">Your Trusted Source for Robust Dewatering Pumps</h2>
+                        <h2 class="text-anime-style-3">Your Trusted Source for Robust Dewatering Pump Manufacturers in India</h2>
                         <p>Regardless of their purpose or requirements, our dewatering pumps are simple to use and may be placed and operated in vertical position working. Our dewatering pumps are made of stainless steel and cast iron, which provides long life, mobility, strength, low downtime, little maintenance, and durability.</p>
 
                         <p><strong>The operating costs of these pumps are quite inexpensive, and their performance is extremely reliable.</strong></p>
 
-                        <p>Our customers may select from these items suited to handle groundwater, muddy water, and even polluted water including solid components. As one of the reputed <strong>Dewatering Pump Suppliers in India</strong>, we offer our pumps in a wide range of capacities ranging from 1 HP to 40 HP.</p>
+                        <p>Our customers may select from these items suited to handle groundwater, muddy water, and even polluted water including solid components. As one of the reputed <strong>Dewatering Pump Manufacturers in India</strong>, we offer our pumps in a wide range of capacities ranging from 1 HP to 40 HP.</p>
                      </div>
                   </div>
                </div>

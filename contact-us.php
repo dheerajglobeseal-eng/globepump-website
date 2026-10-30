@@ -18,6 +18,14 @@ include('Templates/config.php');
 	<link rel="canonical" href="<?php echo $path; ?>" />
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Sora:wght@100..800&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LLK0D2BP1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-0LLK0D2BP1');
+</script>
 </head>
 
 <body>
@@ -53,7 +61,7 @@ include('Templates/config.php');
                         </div>
                         <div class="contact-info-content">
                            <h3>Head Office :-</h3>
-                           <p>615, 6th Floor, Girivar Glean Mall, Odhav Road, <br> Odhav, Ahmedabad - 382415</p>
+                           <p>615, 6th Floor, Girivar Glean Mall, Odhav Road, <br> Odhav, Ahmedabad - 382415 Gujarat, India.</p>
                         </div>
                      </div>
                      <div class="contact-info-item">
@@ -62,7 +70,7 @@ include('Templates/config.php');
                         </div>
                         <div class="contact-info-content">
                            <h3>Plant Address :-</h3>
-                           <p>Plot No- A-77, Swadheen Industrial Park, Kothiya Ahmedabad Indore Highway, Ta. Daskroi, Distt. Ahmedabad - 382433</p>
+                           <p>Plot No- A-77, Swadheen Industrial Park, Ahmedabad Indore Highway, Daskroi, Kuha, Ahmedabad - 382433 Gujarat, India.</p>
                         </div>
                      </div>
                      <div class="contact-info-item">
@@ -73,7 +81,7 @@ include('Templates/config.php');
                            <h3>Email Us On :-</h3>
                            <p><a href="mailto:inquiry@globeseal.com">inquiry@globeseal.com</a></p>
                            <p><a href="mailto:info@globeseal.com">info@globeseal.com</a></p>
-                           <p><a href="mailto:purchase@globeseal.com">purchase@globeseal.com</a></p>
+                           
                         </div>
                      </div>
                      <div class="contact-info-item">
@@ -82,9 +90,7 @@ include('Templates/config.php');
                         </div>
                         <div class="contact-info-content">
                            <h3>Call Us On</h3>
-                           <p><a href="tel:917922970453">Landline & Fax : +91 79229 70453</a></p>
-                           <p><a href="tel:919574004224">Purchase : +91 95740 04224</a></p>
-                           <p><a href="tel:919537419590">inquiry (Mobile) : +91 95374 19590</a></p>
+                           <p><a href="tel:919537419590">inquiry (Mobile) : +91 9537419590 / 7069803256</a></p>
                            <p><a href="tel:8069641174">Toll Free No. : 8069641174</a></p>
                         </div>
                      </div>

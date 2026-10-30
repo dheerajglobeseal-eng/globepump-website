@@ -18,6 +18,14 @@ include('Templates/config.php');
 	<link rel="canonical" href="<?php echo $path; ?>" />
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Sora:wght@100..800&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LLK0D2BP1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-0LLK0D2BP1');
+</script>
 </head>
 
 <body>
@@ -58,11 +66,14 @@ include('Templates/config.php');
                     <div class="contact-team">
                         <div class="contact-team-box">
                             <h3 class="cm-title">Current Opening</h3>
-                            <h4>1. General Manager</h4>
-                            <p><strong>Experience :-</strong> Having 7 To 10 Years Experience In Industrial Pump Line</p>
-
-                            <h4>2. Purchase Executive</h4>
-                            <p><strong>Experience :-</strong> 1 To 3 Years Experience In Mechanical Engineering Product</p>
+                            <h4>1. Estimate Engineer</h4>
+                            <p><strong>Experience :-</strong> Having 1 To 3 Years Experience.</p>
+                            <h4>2. Sales Executive (Pan India)</h4>
+                            <p><strong>Experience :-</strong> Having 2 To 5 Years Experience.</p>
+                            <h4>3. Service Engineer</h4>
+                            <p><strong>Experience :-</strong> Having 2 To 5 Years Experience.</p>
+                            <h4>4. Field Sales Executive</h4>
+                            <p><strong>Experience :-</strong> Having 3+ Years Experience.</p>
                         </div>
                     </div>
                 </div>

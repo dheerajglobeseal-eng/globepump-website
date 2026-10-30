@@ -18,6 +18,108 @@ include('Templates/config.php');
 	<link rel="canonical" href="<?php echo $path; ?>" />
    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Sora:wght@100..800&display=swap" rel="stylesheet">
    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+   <!-- Open Graph -->
+<meta property="og:type" content="product">
+<meta property="og:title" content="Centrifugal Process Pumps in India | Top Manufacturer & Supplier">
+<meta property="og:description" content="Leading manufacturer of Centrifugal Process Pumps in India for chemical, pharmaceutical and industrial applications.">
+<meta property="og:url" content="https://www.globepump.com/centrifugal-process-pump.php">
+<meta property="og:site_name" content="Globe Star Engineers">
+<meta property="og:image" content="https://www.globepump.com/assets/images/centrifugal-pump-inner.png">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Centrifugal Process Pumps in India | Top Manufacturer & Supplier">
+<meta name="twitter:description" content="Industrial Centrifugal Process Pumps for chemical and industrial fluid transfer.">
+<meta name="twitter:image" content="https://www.globepump.com/assets/images/centrifugal-pump-inner.png">
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Product",
+  "@id":"https://www.globepump.com/centrifugal-process-pump.php#product",
+  "name":"Centrifugal Process Pump",
+  "image":[
+    "https://www.globepump.com/assets/images/centrifugal-pump-inner.png",
+    "https://www.globepump.com/assets/images/centrifugal-process-pump-01.png",
+    "https://www.globepump.com/assets/images/centrifugal-process-pump-02.png"
+  ],
+  "description":"Globe Star Engineers manufactures high-performance Centrifugal Process Pumps for chemical, pharmaceutical, petrochemical and industrial fluid transfer applications.",
+  "sku":"CENTRIFUGAL-PROCESS-PUMP",
+  "brand":{
+    "@type":"Brand",
+    "name":"Globe Star Engineers"
+  },
+  "manufacturer":{
+    "@type":"Organization",
+    "name":"Globe Star Engineers (India) Pvt. Ltd."
+  },
+  "category":"Industrial Pump",
+  "url":"https://www.globepump.com/centrifugal-process-pump.php",
+   "offers": {
+    "@type": "Offer",
+    "url": "https://www.globepump.com/centrifugal-process-pump.php",
+    "priceCurrency": "INR",
+    "price": "1",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition"
+  },
+  "additionalProperty":[
+    {
+      "@type":"PropertyValue",
+      "name":"Capacity",
+      "value":"Up to 400 m³/hr"
+    },
+    {
+      "@type":"PropertyValue",
+      "name":"Head",
+      "value":"Up to 150 m"
+    },
+    {
+      "@type":"PropertyValue",
+      "name":"Pressure",
+      "value":"Up to 16 bar"
+    },
+    {
+      "@type":"PropertyValue",
+      "name":"Temperature",
+      "value":"Up to 200°C"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"BreadcrumbList",
+  "itemListElement":[
+    {
+      "@type":"ListItem",
+      "position":1,
+      "name":"Home",
+      "item":"https://www.globepump.com/"
+    },
+    {
+      "@type":"ListItem",
+      "position":2,
+      "name":"Our Products",
+      "item":"https://www.globepump.com/our-products.php"
+    },
+    {
+      "@type":"ListItem",
+      "position":3,
+      "name":"Centrifugal Process Pump",
+      "item":"https://www.globepump.com/centrifugal-process-pump.php"
+    }
+  ]
+}
+</script>
+   <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LLK0D2BP1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-0LLK0D2BP1');
+</script>
 </head>
 
 <body>
